@@ -467,7 +467,7 @@ plot_dynamic_hicream <- function(res_path, ctcf_path = NULL, pixel_cutoff = NULL
       scale_fill_gradient2()+
       theme_bw()+
       theme_animint(width=300, height=300), 
-    source = "https://github.com/eoojj/hicream-viz/export_viz_hicream.R"
+    source = "https://github.com/eoojj/hicream-viz/blob/main/export_viz_hicream.R"
     
   )
   return(viz.common)
