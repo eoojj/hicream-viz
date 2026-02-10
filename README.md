@@ -1,7 +1,7 @@
 Replication code for interactive figures in hicream paper (Jorge, Hocking, Neuvial, Vialaneix, Foissac 2026).
 
-* [source_viz_hicream.R](R functions for creating interactive data viz)
-* [export_viz_hicream.R](R code for publishing viz to GitHub Pages)
+* [R functions for creating interactive data viz](source_viz_hicream.R)
+* [R code for publishing viz to GitHub Pages](export_viz_hicream.R)
 
 ## Related work
 
